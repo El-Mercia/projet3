@@ -20,4 +20,3 @@ app.get("/api/user/", (req, res) => {
 
 });
 });
-
